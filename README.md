@@ -1,1 +1,1 @@
-# tindog
+# A dogs dating site frontend.
